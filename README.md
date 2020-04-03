@@ -1,2 +1,2 @@
-# Otto
+# Jespersen
 Lightweight X-SAMPA parser
